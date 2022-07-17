@@ -2,9 +2,9 @@
 # kickstarter-analysis
 ## Module 1 challenge
 ## Deliverable 1:
- [Theater_Outcomes_vs_Launch.png] (../blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+![Theater_Outcomes_vs_Launch](https://github.com/gkroebke/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true "Theater Outcomes vs Launch")
 ## Deliverable 2:
- [Outcomes_vs_Goals.png] (https://github.com/gkroebke/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/gkroebke/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Deliverable 3: A written analysis of the results
 1. overview of project: The purpose of this analysis was to see how a play campaign's outcome related to the campaign's fundraising goal and launc date
 2. analysis and challenges: use images and links to code

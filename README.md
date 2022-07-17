@@ -2,7 +2,7 @@
 # kickstarter-analysis
 ## Module 1 challenge
 ## Deliverable 1:
- [Theater_Outcomes_vs_Launch.png] (https://github.com/gkroebke/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+ [Theater_Outcomes_vs_Launch.png] (../blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 ## Deliverable 2:
  [Outcomes_vs_Goals.png] (https://github.com/gkroebke/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Deliverable 3: A written analysis of the results
